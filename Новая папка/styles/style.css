@@ -1,7 +1,5 @@
-body {
-    background-color: rgb(187, 187, 5);
-}
-ul li {
-    display: inline;
-}
-/* https://developer.mozilla.org/ru/docs/Web/CSS/Comments */
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+   }
